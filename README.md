@@ -94,9 +94,9 @@ Tiny-Heros/
 
 ## 📸 Screenshots
 
-| Main Menu | Gameplay | Game Over |
-|-----------|----------|-----------|
-| ![Menu](./screenshots/menu.png) | ![Gameplay](./screenshots/gameplay.png) | ![Game Over](./screenshots/gameover.png) |
+| Main Menu | Gameplay | Game Over | Characters |
+|-----------|----------|-----------|-----------|
+| ![Menu](./assets/screenhot_1.png) | ![Gameplay](./assets/screenhot_2.png) | ![Game Over](./assets/screenhot_3.png) | ![Characters](./assets/screenhot_4.png) 
 
 ## 🤝 Contributing
 
